@@ -6,3 +6,5 @@ My resume template with 1 homepage and 1 mail page.
 
 I developed it by making changes on ready-made templates.
 Edit config.yml according to you and run views.py or use flask run.
+
+It contains flask email service. The information entered by the user is sent to the specified e-mail account.
